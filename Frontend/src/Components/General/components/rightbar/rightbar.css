@@ -1,0 +1,63 @@
+.newsContainer {
+    padding: 15px; /* Slightly reduced padding */
+    max-width: 210px; /* Further reduced maximum width */
+    margin: auto; /* Center the container */
+}
+
+.newsArticle {
+    margin-bottom: 15px; /* Reduced space between articles */
+    border-radius: 8px; /* Slightly smaller rounded corners */
+    box-shadow: 0 2px 3px rgba(0,0,0,0.1); /* Slightly lighter shadow */
+    overflow: hidden; /* Fits content within the border radius */
+}
+
+.newsImage {
+    width: 100%;
+    max-height: 100px; /* Further reduced height of images */
+    object-fit: cover; /* Ensures the image covers the area nicely */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px; /* Rounded corners at the top of the image */
+}
+
+.newsTitle {
+    font-size: 14px; /* Reduced font size */
+    font-weight: bold;
+    margin: 5px 0; /* Reduced spacing around the title */
+}
+
+.newsDescription {
+    font-size: 12px; /* Reduced font size */
+    margin-bottom: 5px; /* Reduced spacing below the description */
+}
+
+.newsLink {
+    display: block;
+    margin-bottom: 5px; /* Reduced bottom margin */
+    color: #007bff;
+    text-decoration: none;
+}
+
+.newsLink:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+
+
+
+.rightbar{
+    flex: 1.3;
+}
+/*
+.rightbarWrapper{
+    padding: 20px 20px 0 0;
+}
+
+.rightBarNews{ 
+    width: 100%;
+    border-radius: 10px;
+    margin: 30px 0;
+}
+
+.sidebarHr{
+    margin: 20px 0;
+} */

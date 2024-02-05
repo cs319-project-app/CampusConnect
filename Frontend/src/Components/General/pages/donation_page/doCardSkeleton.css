@@ -1,0 +1,23 @@
+.do-card-skeleton {
+    border-radius: 4px;
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .skeleton-image {
+    height: 150px;
+    background-color: #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .skeleton-text {
+    height: 20px;
+    background-color: #ddd;
+    margin-bottom: 5px;
+  }
+  
+  .skeleton-text.short {
+    width: 60%;
+  }
+  

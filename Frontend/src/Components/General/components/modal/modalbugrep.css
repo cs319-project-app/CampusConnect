@@ -1,0 +1,82 @@
+body.active-modal {
+    overflow-y: hidden;
+}
+
+.btn-modal {
+    padding: 10px 20px;
+    display: block;
+    margin: 100px auto 0;
+    font-size: 18px;
+}
+
+.modal, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 1000;   
+}
+
+.overlay {
+    background: rgba(49, 49, 49, 0.8);
+}
+.modal-content {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #f1f1f1;
+    padding: 14px 28px;
+    border-radius: 3px;
+    max-width: 1000px;
+    min-width: 600px;
+    flex-direction: column;
+    /*max-width: 80%; /* Adjust the width percentage based on your preference */
+    /*min-width: 300px; /* Set a minimum width if needed */
+    /*overflow-y: auto; /* Make content scrollable if it exceeds viewport height */
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 7px;
+}
+
+.wrapper{
+    margin-top: 22%;
+    position: relative;
+    z-index: 1001;
+    flex-direction: column;
+    /*position: fixed;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1001;*/
+}
+
+.postDescription22{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.postDescription2{
+    font-style: italic;
+    text-align: center;
+    color: indianred;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+.postDescription3{
+    font-style: italic;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

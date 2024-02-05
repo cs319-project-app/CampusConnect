@@ -1,0 +1,26 @@
+.texttype{
+    font-size: 20px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+
+}
+.texttype2{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3%;
+
+}
+
+.sample-image{
+    margin-bottom: 5px;
+    width: 40%;
+    object-fit: contain;
+    border-radius: 70%;
+}
+

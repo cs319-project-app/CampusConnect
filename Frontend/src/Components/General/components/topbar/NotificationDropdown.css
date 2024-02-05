@@ -1,0 +1,39 @@
+/* NotificationDropdown.css */
+
+.notification-dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .notification-icon {
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    display: block;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    min-width: 200px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+  }
+  
+  .notification-item {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .notification-item:last-child {
+    border-bottom: none;
+  }
+  
+  .no-notifications {
+    padding: 10px;
+    font-size: 14px;
+    color: #888;
+  }

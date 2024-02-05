@@ -1,0 +1,34 @@
+.bottom-card-bar{
+    /* display: flex;
+    align-items: center;*/
+    flex: 1;
+    justify-content: space-between; 
+    display: flex;
+    align-items: center;
+
+}
+
+.price-style{
+    font-size: 17px;
+    font-weight:bold;
+    color: rgb(13, 183, 13);
+     /* ?????? */
+}
+
+.location-style{
+    font-size: 15px;
+    font-weight:bold;
+    color: black;
+}
+
+.bottomwrap{
+    display: flex;
+    align-items: center;
+}
+
+.borrow-wrap{
+    align-items: center;
+}
+.arrow-loc{
+    text-align: center;
+}

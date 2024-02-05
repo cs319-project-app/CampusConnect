@@ -1,0 +1,9 @@
+/target/
+/node_modules
+*.log
+*.class
+.idea/
+*.iml
+.DS_Store
+/build/
+/out/

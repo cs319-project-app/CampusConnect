@@ -1,0 +1,60 @@
+.LSfeed{
+  flex: 9.3;
+  
+}
+
+.LSfeedWrapper{
+  padding: 20px;
+  
+}
+
+.page-title{
+  font-size: 30px;
+  font-weight: bold;
+  color: black; 
+}
+
+.buttonwrap{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+  margin-top: 20px;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
+  margin-bottom: 30px;
+}
+
+.plus-button{
+  background-color: green;
+  color: #ffffff;
+  text-decoration:solid;
+  font-size: 40px;
+
+  /* display: inline-block; */
+  display: inline-flex;
+  width: 8vh;
+  height: 8vh;
+  line-height: 30px;
+  text-align: center; /*vertically align*/
+  border-radius: 50%;
+  justify-content: center; /*horizontally align*/
+}
+
+.plus-button:hover{
+  background-color: rgb(40, 40, 40);
+  color: gold;
+}
