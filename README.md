@@ -2,7 +2,6 @@
 ### Project Title
 CampusConnect
 ### Team Members👫
-We have not distributed the roles yet. We will update this part in the future. The professor said that it was okay.
 - Onur Tanınmış
 - Serhat Yılmaz
 - Melisa İrem Akel
