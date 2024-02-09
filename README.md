@@ -5,7 +5,7 @@ CampusConnect
 - Onur Tanınmış
 - Serhat Yılmaz
 - Melisa İrem Akel
-- Betül Doğrul
+- Betül Doğrul 
 - Süleyman Yağız Başaran
 - Gülbera Tekin
 ## NOTES ❗❗❗❗❗❗❗
