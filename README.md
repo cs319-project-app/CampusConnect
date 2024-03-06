@@ -4,8 +4,8 @@ CampusConnect
 ### Team Members👫
 - Onur Tanınmış
 - Serhat Yılmaz
-- Betül Doğrul
 - Melisa İrem Akel
+- Betül Doğrul
 - Süleyman Yağız Başaran
 - Gülbera Tekin
 ## NOTES ❗❗❗❗❗❗❗
